@@ -1,0 +1,13 @@
+.btn{
+	background-color:#D4B062;
+	padding:15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Work sans';
+}
+.btn:hover{
+	background-color: white;
+	color:#D4B062;
+	cursor: pointer;
+	}
